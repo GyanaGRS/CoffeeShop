@@ -10,15 +10,20 @@ The **CoffeeShop** app provides a modern interface for browsing coffee items, in
 - **Detail View**: Tap an item for detailed information and an option to favorite it.
 - **Smooth UI**: User-friendly layout with Glide for image loading.
 
-## <font size="6">Screenshots</font>
+## Screenshots
 
-![Main Screen](![mainScreen](https://github.com/user-attachments/assets/f1a58f37-781e-4b06-a5ee-8dd69b0a1b8f)
+### Main Screen
+
+<img src="https://github.com/user-attachments/assets/f1a58f37-781e-4b06-a5ee-8dd69b0a1b8f" alt="Main Screen" width="400" style="max-width:100%"/>
 
 *Main screen of the CoffeeShop app.*
 
-![Flash Screen](![intro screen](https://github.com/user-attachments/assets/cdee93d5-4c6f-40f8-8d2b-4360723ba941)
-)
-*Item detail view with pricing and description.*
+### Flash Screen
+
+<img src="https://github.com/user-attachments/assets/cdee93d5-4c6f-40f8-8d2b-4360723ba941" alt="Flash Screen" width="400" style="max-width:100%"/>
+
+*Splash screen of the CoffeeShop app.*
+
 
 ## <font size="5">Installation</font>
 
