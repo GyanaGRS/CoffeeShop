@@ -14,13 +14,13 @@ The **CoffeeShop** app provides a modern interface for browsing coffee items, in
 
 ### Main Screen
 
-<img src="https://github.com/user-attachments/assets/f1a58f37-781e-4b06-a5ee-8dd69b0a1b8f" alt="Main Screen" width="200" style="max-width:100%"/>
+<img src="https://github.com/user-attachments/assets/f1a58f37-781e-4b06-a5ee-8dd69b0a1b8f" alt="Main Screen" width="150" style="max-width:100%"/>
 
 *Main screen of the CoffeeShop app.*
 
 ### Flash Screen
 
-<img src="https://github.com/user-attachments/assets/cdee93d5-4c6f-40f8-8d2b-4360723ba941" alt="Flash Screen" width="200" style="max-width:100%"/>
+<img src="https://github.com/user-attachments/assets/cdee93d5-4c6f-40f8-8d2b-4360723ba941" alt="Flash Screen" width="150" style="max-width:100%"/>
 
 *Splash screen of the CoffeeShop app.*
 
