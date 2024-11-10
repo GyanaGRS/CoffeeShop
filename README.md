@@ -13,7 +13,7 @@ The **CoffeeShop** app provides a modern interface for browsing coffee items, in
 ## <font size="6">Screenshots</font>
 
 ![Main Screen](![mainScreen](https://github.com/user-attachments/assets/f1a58f37-781e-4b06-a5ee-8dd69b0a1b8f)
-)
+
 *Main screen of the CoffeeShop app.*
 
 ![Flash Screen](![intro screen](https://github.com/user-attachments/assets/cdee93d5-4c6f-40f8-8d2b-4360723ba941)
