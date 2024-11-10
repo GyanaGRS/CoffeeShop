@@ -12,11 +12,15 @@ The **CoffeeShop** app provides a modern interface for browsing coffee items, in
 
 ## <font size="6">Screenshots</font>
 
-_Add screenshots here to give a quick preview of the app’s interface._
+![Main Screen](screenshots/main_screen.png)
+*Main screen of the CoffeeShop app.*
+
+![Item Detail](screenshots/item_detail.png)
+*Item detail view with pricing and description.*
 
 ## <font size="5">Installation</font>
 
-1. Download the latest APK from the [Releases](https://github.com/YourUsername/CoffeeShop/releases) section.
+1. Download the latest APK from the [Releases](https://github.com/GyanaGRS/CoffeeShop/releases) section.
 2. Install the APK on an Android device to get started.
 
 ## Tech Stack
