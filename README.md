@@ -1,4 +1,5 @@
 CoffeeShop Android App
+
 The CoffeeShop app provides a modern interface for browsing coffee items, including detailed images, prices, and descriptions. This project demonstrates Android development practices, including a splash screen, item listing with RecyclerView, and favorite functionality.
 
 Features
